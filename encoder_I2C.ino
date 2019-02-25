@@ -11,11 +11,6 @@ int distancia = 0;
    Usina Info & WR Kits
    
    Medindo RPM de um Motor DC com Arduino
-
-
-   Compilador: Arduino IDE 1.8.4
-
-   Autor: Eng. Wagner Rambo  Data: Março de 2018
    
    www.wrkits.com.br | facebook.com/wrkits | youtube.com/canalwrkits
 
@@ -29,7 +24,6 @@ int distancia = 0;
    5V            5V
    D2           OUT
 
-   
 ====================================================================================================== */
 
  
