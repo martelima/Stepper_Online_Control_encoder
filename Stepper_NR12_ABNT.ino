@@ -2,7 +2,7 @@
 int frequencia = 0;
 int tempo = 10;
 // Programa : Ponte H L298N e motor de passo
-// Autor : Arduino e Cia
+// Autor : Mateus Lima
 
 // Conexoes modulo - Arduino
 int IN1 = 8;
