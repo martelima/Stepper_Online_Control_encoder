@@ -1,0 +1,2 @@
+# Stepper_Online_Control_encoder
+O presente trabalho encontra-se na área de Engenharia de Controle e Automação, pois ilustra a aplicabilidade de micro controladores dentro de um sistema miniatura de manufatura que demonstra de forma reduzida um sistema de esteira rolante em uma indústria, este sistema é controlado através de um smartphone ou qualquer tipo aparelho que tenha conexão com a internet e possa algum navegador
